@@ -10,7 +10,8 @@ Os desafios do Frontend Mentor ajuda a melhorar as  capacidades de codificação
 
 **Front-end:** HTML, CSS
 
-
+### Link para o projeto:
+https://bit.ly/NFT-frontend-Mentor
 
 ## Aprendizados
 
