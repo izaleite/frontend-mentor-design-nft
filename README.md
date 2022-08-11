@@ -10,9 +10,6 @@ Os desafios do Frontend Mentor ajuda a melhorar as  capacidades de codificação
 
 **Front-end:** HTML, CSS
 
-### Link para o projeto:
-https://bit.ly/NFT-frontend-Mentor
-
 ## Aprendizados
 
 Esse projeto mesmo que simples me possibilitou praticar e entender alguns conceitos importantes como:
@@ -21,6 +18,9 @@ Esse projeto mesmo que simples me possibilitou praticar e entender alguns concei
 - Variáveis CSS
 - Especificidade CSS
 - Outro ponto muito interessante foi a experência de reproduzir um projeto, sem a utilização dos arquivos no figma. Desafio pensar nas formas de deixar o projeto, o mais próximo do resultado final. 
+
+## Link para a solução:
+https://bit.ly/NFT-frontend-Mentor
 
 ## Pré-visualização da solução de componentes do cartão
 ![App Screenshot](https://user-images.githubusercontent.com/79549424/184196681-ca9cfc83-d6e8-42a2-b18e-cddcf07422cc.jpg)
