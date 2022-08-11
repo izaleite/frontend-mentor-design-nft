@@ -3,7 +3,7 @@
 
 # Frontend Mentor - NFT 
 Esta é uma solução para o [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
-Os desafios do Frontend Mentor ajudam-no a melhorar as  capacidades de codificação através da construção de projectos realistas. 
+Os desafios do Frontend Mentor ajuda a melhorar as  capacidades de codificação através da construção de projectos realistas. 
 
 
 ## Stack utilizada
