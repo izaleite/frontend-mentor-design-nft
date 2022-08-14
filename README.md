@@ -14,7 +14,7 @@ Os desafios do Frontend Mentor ajuda a melhorar as  capacidades de codificação
 
 Esse projeto mesmo que simples me possibilitou praticar e entender alguns conceitos importantes como:
 - Flexbox
-- Pseudo-classes
+- Pseudo-elementos
 - Variáveis CSS
 - Especificidade CSS
 - Outro ponto muito interessante foi a experência de reproduzir um projeto, sem a utilização dos arquivos no figma. Desafio pensar nas formas de deixar o projeto, o mais próximo do resultado final. 
